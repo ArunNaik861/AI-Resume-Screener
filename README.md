@@ -448,7 +448,7 @@ This project is open-source and available for educational and personal use.
 
 ## 👨‍💻 Author
 
-**Kiran Chougale**
+**Arun Naik**
 
 Built with ❤️ using **Python and Streamlit**.
 
